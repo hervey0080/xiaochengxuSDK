@@ -1,0 +1,31 @@
+<!--pages/demo/demo.wxml-->
+<view class="head">
+<input type="text" placeholder="请输入需要查看的用电日期"></input>
+</view>
+
+<view class="yuxia">
+<view class="image">
+<image mode="aspectFill" src="http://m.qpic.cn/psc?/V12n5z9F3On6Fi/Sc7wZG8Q0BUeMz.O80ebfOa7It4wt9eOBVs4YJZr4yVYk*ErJQuv1nOBC*5fAw535a*KTSI1F51pyO55IJE.GA0SImLj4WARWL0xMuUKeps!/b&bo=GAG5AAAAAAABF5A!&rf=viewer_4&t=5.jpg"></image>
+</view>
+
+<view class="kaiguan"> 
+  <button class="user_button1" type="primary" >开关</button>
+</view>
+
+<view class="user">
+  <button class="user_button2" type="primary" size="mini" plain="ture">电量统计</button>
+  <button class="user_button3" type="black" size="mini" plain="ture">电流</button>
+  <button class="user_button3" type="black" size="mini" plain="ture">电压</button>
+</view>
+<view class="fengexian">
+  <text></text>
+</view>
+
+<view class="user-1">
+<!-- text组件 -->
+<text class=user_text" type="yellow">更多功能持续开发中</text>
+ 
+</view>
+
+</view>
+

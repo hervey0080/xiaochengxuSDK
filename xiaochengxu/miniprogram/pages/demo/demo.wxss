@@ -1,0 +1,57 @@
+/* pages/demo/demo.wxss */
+.yuxia{
+  background-color:rgb(219, 168, 177);
+}
+.user{
+  display: flex;
+  align-items: center;
+  flex-directon:colum;
+}
+.kaiguan{
+  display: flex;
+  align-items: center;
+  flex-directon:colum;
+  margin-top:20px;
+  width: 100px;
+  margin-left:35%;
+}
+.user-1{
+  display: flex;
+  align-items: center;
+  flex-directon:colum;
+}
+.user_button4{
+  color:yellow;
+  margin-right: 30px;
+}
+.head{
+  background-color: pink;
+  height: 50px;
+}
+.head input{
+  width:80%;
+  background-color: #ffff;
+  height:30px;
+  margin-top:10px;
+  margin-left:auto;
+  margin-right:auto;
+  border-radius: 4px;
+  font-size: 13px;
+  padding-left: 5px;
+}
+.user{
+  margin-top: 40px;
+  font-size:small;
+  margin-bottom: 20px;
+ /* border-bottom: 2px solid #1882b3;*/
+}
+.fengexian{
+  width:100%;
+  border-bottom:2px solid #1882b3;
+}
+.user-1 .user_text{
+  font-size: 15px;
+  padding: 20px;
+  margin-left:20px;
+
+}
